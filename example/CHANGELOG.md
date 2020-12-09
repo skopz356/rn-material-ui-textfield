@@ -1,3 +1,12 @@
+## [0.0.1](https://github.com/gabrieldonadel/rn-material-ui-textfield/compare/v1.0.1...v0.0.1) (2020-12-09)
+
+
+### Bug Fixes
+
+* TextField value prop not updating internal text state ([b28dead](https://github.com/gabrieldonadel/rn-material-ui-textfield/commit/b28dead90dcd21acc2249a7eb221a7b3f66ed116))
+
+
+
 ## [0.0.1](https://github.com/gabrieldonadel/rn-material-ui-textfield/compare/v1.0.0...v0.0.1) (2020-11-19)
 
 
