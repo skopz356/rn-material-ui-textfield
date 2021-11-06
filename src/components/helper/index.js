@@ -9,7 +9,6 @@ export default class Helper extends PureComponent {
     title: PropTypes.string,
     error: PropTypes.string,
     disabled: PropTypes.bool,
-    style: PropTypes.oneOfType([PropTypes.object, PropTypes.array]),
     baseColor: PropTypes.string,
     errorColor: PropTypes.string,
     focusAnimation: PropTypes.instanceOf(Animated.Value),
